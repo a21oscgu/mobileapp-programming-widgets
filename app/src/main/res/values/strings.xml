@@ -3,4 +3,5 @@
     <string name="textView1">Hello :)</string>
     <string name="my_kiwi">My Kiwi.</string>
     <string name="my_hint">Write message</string>
+    <string name="my_button">Click me</string>
 </resources>
