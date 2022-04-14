@@ -33,4 +33,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/kiwi" />
 
+    <EditText
+        android:id="@+id/EditText"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="@string/my_hint"
+        android:layout_marginTop="185dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
