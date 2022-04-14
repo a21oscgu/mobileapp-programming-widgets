@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/kiwi" />
 ```
 
-Detta skärmklipp visar layouten i appen: 
+**Detta skärmklipp visar layouten i appen:**
 
 <img src="/Screenshot_20220414_150751.png" width="60%">
 
