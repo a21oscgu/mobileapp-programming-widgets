@@ -23,4 +23,4 @@
 
 <img src="/Screenshot_20220414_150751.png" width="60%">
 
-**Värt att notera, ifall du öppnar filen **<i>activity_main.xml</i>** kanske du märker att det finns ett problem i filen **<cite>"Cannot resolve symbol '@drawable/kiwi':35".</cite>** Jag vet inte vad felet är och har inte lyckats lösa det.**
+**Värt att notera, ifall du öppnar filen **<i>activity_main.xml</i>** kanske du märker att det finns ett problem i filen **<cite>"Cannot resolve symbol '@drawable/kiwi':35".</cite>** Jag vet inte vad felet är och har inte lyckats lösa det, se sista raden i kodsnutten ovanför.**
