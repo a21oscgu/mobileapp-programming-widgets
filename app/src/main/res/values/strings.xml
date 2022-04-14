@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Beautiful App</string>
     <string name="textView1">Hello :)</string>
+    <string name="my_kiwi">My Kiwi.</string>
 </resources>
