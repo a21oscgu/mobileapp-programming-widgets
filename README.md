@@ -2,7 +2,9 @@
 # Assignment 3: Layouts & Views
 
 **Den här appen är forkad från LenaSYS/mobileapp-programming-widgets. Appen har en constraint layout. I appen har tre widgets lagts till. Det finns alltså en TextView, en ImageView, en EditText och en Button. Alla widgets har placerats m.h.a. margins och utseendet har även ändrats, se skärmklipp nedanför. Ifall knappen trycks in kommer meddelandet "We clicked on the button!" upp i konsolen. Appens Appbar har även fått en annan färg (jag är medveten om att det inte är helt anpassat efter material design). Den ImageView som skapades syns även i skärmklippet nedanför.**
+
 **Denna kodsnutt visar den ImageView som har skapats:**
+
 ```
 <ImageView
         android:id="@+id/imageViewKiwi"
@@ -16,6 +18,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/kiwi" />
 ```
+
 **Detta skärmklipp visar layouten i appen: **
 
 <img src="/Screenshot_20220414_150751.png" width="60%">
