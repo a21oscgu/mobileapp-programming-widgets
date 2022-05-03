@@ -1,4 +1,4 @@
-<i>**OBS! Jag vet inte varför men när jag pushade mina commits i Android Studio på min dator blev det kopplat till mitt personliga konto "drag0nsbreath" istället för mitt skolkonto "a21oscgu". Jag använde en token för att pusha alla commits från Android Studio.**</i>
+<i>**OBS! En del commits har råkat bli pushade med mitt personliga konto "drag0nsbreath" istället för mitt skolkonto "a21oscgu".**</i>
 
 # Assignment 3: Layouts & Views
 
